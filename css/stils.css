@@ -58,7 +58,7 @@ img {
 }
 
 body {
-
+    background-color: rgb(129, 208, 245);
     color: var(--primary-text-color);
     font-family: Roboto, sans-serif;
     font-size: 14px;
